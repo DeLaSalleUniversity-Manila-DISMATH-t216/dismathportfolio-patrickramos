@@ -27,14 +27,16 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 | → | Conditional | if, then & only if|
 | ⇔| Biconditional | iff |
 
+
 ##Week 2:
 
 - I learned about the quantifiers which are the predicate and the nested
   - ∃xP(x) - there exist
   - ∀xP(x) - for all
 - I learned and memorized some of the laws that are commonly used in proving
-
-| :-----: |:-------:|:-----:|:-----:|
+- 
+| Logical Symbol  |  Logical Operator | Usage |
+| :-----: |:-------:|:-----:|
 | Commutative | p ∧ q ⇐⇒ q ∧ p |  p ∨ q ⇐⇒ q ∨ p |
 | Associative | (p ∧ q) ∧ r ⇐⇒ p ∧ (q ∧ r) | (p ∨ q) ∨ r ⇐⇒ p ∨ (q ∨ r) |
 | Distributive | p ∧ (q ∨ r) ⇐⇒ (p ∧ q) ∨ (p ∧ r) | p ∨ (q ∧ r) ⇐⇒ (p ∨ q) ∧ (p ∨ r) |
@@ -46,6 +48,7 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 | De Morgan’s | ∼ (p ∧ q) ⇐⇒ (∼ p) ∨ (∼ q)  | ∼ (p ∨ q) ⇐⇒ (∼ p) ∧ (∼ q) |
 | Absorption | p ∨ (p ∧ q) ⇐⇒ p | p ∧ (p ∨ q) ⇐⇒ p |
 | Conditional | (p ⇒ q) ⇐⇒ (∼ p ∨ q) | ∼ (p ⇒ q) ⇐⇒ (p∧ ∼ q) |
+
 
 ##Week 3:
 
