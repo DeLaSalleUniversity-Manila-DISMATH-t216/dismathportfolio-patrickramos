@@ -1,7 +1,7 @@
 # dismathportfolio-patrickramos
 dismathportfolio-patrickramos created by Classroom for GitHub
 
-#Week 1:
+##Week 1:
 
 -I learned the various expression of conditional statement
   -if p, then q
@@ -27,27 +27,31 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 | → | Conditional | if, then & only if|
 | ⇔| Biconditional | iff |
 
-#Week 2:
+##Week 2:
 
 -I learned about the quantifiers which are the predicate and the nested
   ∃xP(x) - there exist
   ∀xP(x) - for all
 -I learned and memorized some of the laws that are commonly used in proving
 
-Commutative | p ∧ q ⇐⇒ q ∧ p |  p ∨ q ⇐⇒ q ∨ p
-Associative | (p ∧ q) ∧ r ⇐⇒ p ∧ (q ∧ r) | (p ∨ q) ∨ r ⇐⇒ p ∨ (q ∨ r)
-Distributive | p ∧ (q ∨ r) ⇐⇒ (p ∧ q) ∨ (p ∧ r) | p ∨ (q ∧ r) ⇐⇒ (p ∨ q) ∧ (p ∨ r)
-Identity | p ∧ T ⇐⇒ p | p ∨ F ⇐⇒ p
-Negation | p∨ ∼ p ⇐⇒ T | p∧ ∼ p ⇐⇒ F
-Double Negative | ∼ (∼ p) ⇐⇒ p
-Idempotent | p ∧ p ⇐⇒ p | p ∨ p ⇐⇒ p
-Universal Bound | p ∨ T ⇐⇒ T | p ∧ F ⇐⇒ F
-De Morgan’s | ∼ (p ∧ q) ⇐⇒ (∼ p) ∨ (∼ q)  | ∼ (p ∨ q) ⇐⇒ (∼ p) ∧ (∼ q)
-Absorption | p ∨ (p ∧ q) ⇐⇒ p | p ∧ (p ∨ q) ⇐⇒ p
-Conditional | (p ⇒ q) ⇐⇒ (∼ p ∨ q) | ∼ (p ⇒ q) ⇐⇒ (p∧ ∼ q)
+| :-----: |:-------:|:-----:|:-----:|
+|Commutative | p ∧ q ⇐⇒ q ∧ p |  p ∨ q ⇐⇒ q ∨ p|
+|Associative | (p ∧ q) ∧ r ⇐⇒ p ∧ (q ∧ r) | (p ∨ q) ∨ r ⇐⇒ p ∨ (q ∨ r)|
+|Distributive | p ∧ (q ∨ r) ⇐⇒ (p ∧ q) ∨ (p ∧ r) | p ∨ (q ∧ r) ⇐⇒ (p ∨ q) ∧ (p ∨ r)|
+|Identity | p ∧ T ⇐⇒ p | p ∨ F ⇐⇒ p|
+|Negation | p∨ ∼ p ⇐⇒ T | p∧ ∼ p ⇐⇒ F|
+|Double Negative | ∼ (∼ p) ⇐⇒ p|
+|Idempotent | p ∧ p ⇐⇒ p | p ∨ p ⇐⇒ p|
+|Universal Bound | p ∨ T ⇐⇒ T | p ∧ F ⇐⇒ F|
+|De Morgan’s | ∼ (p ∧ q) ⇐⇒ (∼ p) ∨ (∼ q)  | ∼ (p ∨ q) ⇐⇒ (∼ p) ∧ (∼ q)|
+|Absorption | p ∨ (p ∧ q) ⇐⇒ p | p ∧ (p ∨ q) ⇐⇒ p|
+|Conditional | (p ⇒ q) ⇐⇒ (∼ p ∨ q) | ∼ (p ⇒ q) ⇐⇒ (p∧ ∼ q)|
 
-#Week 3:
+##Week 3:
 
+- Learned about Logical Equivalences and how to use them to prove propositions.
+  - Identity Laws
+  
 -I learned about the Rules of Inference
   -argument
   -valid
