@@ -33,9 +33,10 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 - I learned about the quantifiers which are the predicate and the nested
   - ∃xP(x) - there exist
   - ∀xP(x) - for all
+  - 
 - I learned and memorized some of the laws that are commonly used in proving
-- 
-| Logical Symbol  |  Logical Operator | Usage |
+
+| Logical Equivalence  |  |  |
 | :-----: |:-------:|:-----:|
 | Commutative | p ∧ q ⇐⇒ q ∧ p |  p ∨ q ⇐⇒ q ∨ p |
 | Associative | (p ∧ q) ∧ r ⇐⇒ p ∧ (q ∧ r) | (p ∨ q) ∨ r ⇐⇒ p ∨ (q ∨ r) |
