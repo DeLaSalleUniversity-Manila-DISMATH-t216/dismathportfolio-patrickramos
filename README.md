@@ -60,12 +60,12 @@ dismathportfolio-patrickramos created by Classroom for GitHub
   
 - I learned about the different types of proofs
   - Direct Proof
-    (assume p is true, show that q is also true)
+    - (assume p is true, show that q is also true)
   - Proof by Contraposition
-    (not q as hypothesis, not p must follow)
+    - (not q as hypothesis, not p must follow)
   - Vacuous Proof
-    (p is false, because p implying q must be true when p is false)
+    - (p is false, because p implying q must be true when p is false)
   - Trivial Proof
     (show that q is true, because p implies q)
   - Proof by Contradiction
-    (assume not p is true, show that 1 ends up in a contradiction)
+    - (assume not p is true, show that 1 ends up in a contradiction)
