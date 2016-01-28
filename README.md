@@ -66,6 +66,6 @@ dismathportfolio-patrickramos created by Classroom for GitHub
   - Vacuous Proof
     - (p is false, because p implying q must be true when p is false)
   - Trivial Proof
-    (show that q is true, because p implies q)
+    - (show that q is true, because p implies q)
   - Proof by Contradiction
     - (assume not p is true, show that 1 ends up in a contradiction)
