@@ -97,3 +97,5 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 
 - I learned the importance of Summation which is basically providing the equation for a pattern.
 - I also learned the function of Recursive and its algorithm.
+
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
