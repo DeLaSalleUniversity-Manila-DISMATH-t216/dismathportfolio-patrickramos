@@ -1,6 +1,13 @@
 # dismathportfolio-patrickramos
 dismathportfolio-patrickramos created by Classroom for GitHub
 
+##Quotes I learned from my classmates:
+
+> "Everything happens for a reason."
+> "Yesterday is history, Tomorrow is a mystery, Today is a gift that's why it's called present."
+> "Whether you think you can, or think you can't, you're right."
+> "The only way to predict the future is to create it."
+
 ##Week 1:
 
 - I learned the various expression of conditional statement
@@ -69,3 +76,16 @@ dismathportfolio-patrickramos created by Classroom for GitHub
     - (show that q is true, because p implies q)
   - Proof by Contradiction
     - (assume not p is true, show that 1 ends up in a contradiction)
+  - Proof by Equivalence
+    - (show that p impyling q and q implying p is true)
+
+##Week 4:
+
+- I learned how to use counterexamples and apply then in proving.
+
+- Mathematical Induction:
+  - First Step: Substitution (Basis)
+  - Second Step: Direct Proof (Inductive)
+
+- I learned the importance of Summation which is basically providing the equation for a pattern.
+- I also learned the function of Recursive and its algorithm.
