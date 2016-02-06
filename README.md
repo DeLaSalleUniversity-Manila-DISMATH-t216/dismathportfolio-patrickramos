@@ -3,16 +3,16 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 
 ##Quotes I learned from my classmates:
 
-> "Everything happens for a reason."
+> _"Everything happens for a reason."_
 
 
-> "Yesterday is history, Tomorrow is a mystery, Today is a gift that's why it's called present."
+> _"Yesterday is history, Tomorrow is a mystery, Today is a gift that's why it's called present."_
 
 
-> "Whether you think you can, or think you can't, you're right."
+> _"Whether you think you can, or think you can't, you're right."_
 
 
-> "The only way to predict the future is to create it."
+> _"The only way to predict the future is to create it."_
 
 
 
