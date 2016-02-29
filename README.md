@@ -98,4 +98,18 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 - I learned the importance of Summation which is basically providing the equation for a pattern.
 - I also learned the function of Recursive and its algorithm.
 
+##Week 5:
+
+- This week we continued the discussion about summation and recursion. I learned different problems involving logic behind some basic principles of recursive, series, factorial and others.
+- Geometric Series, Power Series are important lessons that are taught.
+- It is also introduced the use of Hoare Triple in which there are 3 main parts. There is an initial assertion then the program segment and lastly the final assertion.
+
+##Week 6:
+
+- I learned about sets and its definition.
+- I also learned common misconceptions about sets and some of its equality equations.
+- Functions are also introduced in this week.
+  - One-to-one Function (Injective)
+  - Onto Function (Surjective)
+  - One-to-one Correspondence (Bijection)
 
