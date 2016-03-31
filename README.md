@@ -128,7 +128,7 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 - I learned Linear Search and Binary Search Algorithms
 
 
-#Week 8:
+##Week 8:
 
 
 - I learned Bubble Sort and Insertion Sort but I quite find this difficult to understand.
@@ -148,4 +148,25 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 | O(n^2) |
 | O(2^n) |
 | O(n!) |
+
+##Week 9:
+
+- I learned Graphs, Graphs Theory and its Introduction
+- I learned what is a degree, a vertex, a subgraph, a path and a circuit.
+
+- Euler Circuit, Euler Path
+- It is a circuit if all nodes have even degree
+- It is a path when exactly 2 vertices have odd degree.
+
+- I learned how to use the Handshaking Theorem
+- I learned Matrices of Graphs
+
+- Hamilton Circuit, Hamilton Path
+- It is a Hamilton Circuit if you pass all the nodes in a graph then end up on where you started.
+- It is a Path by just checking and redrawing it in your imagination if it will pass all the nodes in the graph even though you will not end up on your starting pointl
+
+- I learned how to distinguish wether the graph is Isomorphic or Planar
+- Euler's Formula : r = e - v + 2 where r are the regions, e are the edges, and v are the vertices.
+- Kuratowski's Theorem states that when the 2 graphs presented are a subgraph of the graph given then it is non-planar.
+
 
