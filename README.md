@@ -1,7 +1,7 @@
 # dismathportfolio-patrickramos
 dismathportfolio-patrickramos created by Classroom for GitHub
 
-##Quotes I learned from my classmates:
+##Quotes I learned from class:
 
 > _"Everything happens for a reason."_
 
@@ -13,6 +13,9 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 
 
 > _"The only way to predict the future is to create it."_
+
+
+> _"Sometimes in life, you need to make a choice that can risk and abandon your other choice."_
 
 
 
@@ -112,4 +115,33 @@ dismathportfolio-patrickramos created by Classroom for GitHub
   - One-to-one Function (Injective)
   - Onto Function (Surjective)
   - One-to-one Correspondence (Bijection)
+
+##Week 7:
+
+- I learned graphs of functions by self studying it.
+- I learned Introduction to Algorithm.
+  - Finding the maximum
+  - Finding the minimum
+  - Pseudocodes
+  - Precondition and Postcondition
+  - Properties
+- I learned Linear Search and Binary Search Algorithms
+
+
+#Week 8:
+
+
+- I learned Bubble Sort and Insertion Sort but I quite find this difficult to understand.
+- I learned Growth of Functions
+  - Big O
+  - Big Omega
+  - Big Theta
+  - Time Complexity
+
+|O(n)|
+|O(n)|
+|O(n)|
+|O(n)|
+|O(n)|
+|O(n)|
 
