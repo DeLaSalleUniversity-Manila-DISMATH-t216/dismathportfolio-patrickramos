@@ -167,6 +167,7 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 
 - I learned how to distinguish wether the graph is Isomorphic or Planar
 - Euler's Formula : r = e - v + 2 where r are the regions, e are the edges, and v are the vertices.
+
 - Kuratowski's Theorem states that when the 2 graphs presented are a subgraph of the graph given then it is non-planar.
 
 
