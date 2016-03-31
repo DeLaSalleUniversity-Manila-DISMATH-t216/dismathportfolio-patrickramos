@@ -147,3 +147,12 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 | O(2^n) |
 | O(n!) |
 
+| Big O Complexity  |
+| :-----: |
+| ¬ |Negation | not |
+| ∧ | Conjunction | and |
+| ∨ | Disjunction | or |
+| ⊕ | Exclusive disjunction | xor | 
+| → | Conditional | if, then & only if|
+| ⇔| Biconditional | iff |
+
