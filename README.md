@@ -171,3 +171,21 @@ dismathportfolio-patrickramos created by Classroom for GitHub
 - Kuratowski's Theorem states that when the 2 graphs presented are a subgraph of the graph given then it is non-planar.
 
 
+##Week 10:
+
+- I learned about Graph Coloring or the 4 color theorem
+  - Planar graphs have maximum of 4 colors
+  - Non planar graphs can have as many colors as they want.
+- I learned about Trees
+  - Order rooted trees
+  - Properties of trees
+  - Binary Search Tree
+  - Forest - a group of trees
+  - Lemma - any tree with at least 1 edge must have at least one vertex of degree 1
+  - Parts of Trees: root, parent, child, ancestors, descendants
+  - M-ary Tree
+- I also learned about Modeling Computation
+- Automata Theory and Finite State Machines
+- State diagrams, State tables
+- Grammar and Language is also an important lesson in Dismath
+- Vending Machine application and the process inside it
